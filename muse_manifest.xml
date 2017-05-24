@@ -1,0 +1,68 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="shafiq9595.com" resolutions="1x" timestamp="1495596699567">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="interactive-media-2.css" crc="488447623" ref="interactive-media-2"/>
+    <file name="televisyen-study.css" crc="266205245" ref="televisyen-study"/>
+    <file name="graphic-illustration.css" crc="3838971042" ref="graphic-illustration"/>
+    <file name="visual-effect.css" crc="3802545967" ref="visual-effect"/>
+    <file name="3d-modelling.css" crc="4182135140" ref="3d-modelling"/>
+    <file name="home.css" crc="4093379243" ref="home"/>
+    <file name="index.css" crc="37705616" ref="index"/>
+    <file name="ims.css" crc="477462358" ref="ims"/>
+    <file name="my-profile.css" crc="474989657" ref="my-profile"/>
+    <file name="course.css" crc="4084409091" ref="course"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:course:graphic-illustration:home:my-profile:televisyen-study:3d-modelling:ims:interactive-media-2:visual-effect"/>
+    <file name="museutils.js" crc="4232573551" ref="index:course:graphic-illustration:home:my-profile:televisyen-study:3d-modelling:ims:interactive-media-2:visual-effect"/>
+    <file name="whatinput.js" crc="86476730" ref="index:course:graphic-illustration:home:my-profile:televisyen-study:3d-modelling:ims:interactive-media-2:visual-effect"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:course:graphic-illustration:home:my-profile:televisyen-study:3d-modelling:ims:interactive-media-2:visual-effect"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:course:graphic-illustration:home:my-profile:televisyen-study:3d-modelling:ims:interactive-media-2:visual-effect"/>
+    <file name="require.js" crc="4234670167" ref="index:course:graphic-illustration:home:my-profile:televisyen-study:3d-modelling:ims:interactive-media-2:visual-effect"/>
+  </folder>
+  <folder name="images">
+    <file name="img_20170328_162815.jpg" crc="199090037" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="apex.png" crc="3988682824" seo="true" ref="index:course:graphic-illustration:home:my-profile:televisyen-study:3d-modelling:ims:interactive-media-2:visual-effect">
+      <caption webpage="ims" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="3d-modelling" alt=""/>
+      <caption webpage="course" alt=""/>
+      <caption webpage="interactive-media-2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="graphic-illustration" alt=""/>
+      <caption webpage="televisyen-study" alt=""/>
+      <caption webpage="my-profile" alt=""/>
+      <caption webpage="visual-effect" alt=""/>
+    </file>
+    <file name="usm.png" crc="1348178" seo="true" ref="index:course:graphic-illustration:home:my-profile:televisyen-study:3d-modelling:ims:interactive-media-2:visual-effect">
+      <caption webpage="ims" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="3d-modelling" alt=""/>
+      <caption webpage="course" alt=""/>
+      <caption webpage="interactive-media-2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="graphic-illustration" alt=""/>
+      <caption webpage="televisyen-study" alt=""/>
+      <caption webpage="my-profile" alt=""/>
+      <caption webpage="visual-effect" alt=""/>
+    </file>
+    <file name="img_20170328_162753-crop-u859.jpg" crc="3946392157" seo="true" ref="course">
+      <caption webpage="course" alt=""/>
+    </file>
+    <file name="img_7035.jpg" crc="295944831" seo="true" ref="my-profile">
+      <caption webpage="my-profile" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3837649479" seo="true" mt="1492105157133" redirect="true"/>
+  <file name="course.html" crc="3951329131" seo="true" mt="1492118088751" redirect="true"/>
+  <file name="graphic-illustration.html" crc="3871897363" seo="true" mt="1492117606296" redirect="true"/>
+  <file name="home.html" crc="432282686" seo="true" mt="1492117808760" redirect="true"/>
+  <file name="my-profile.html" crc="196020811" seo="true" mt="1492117858757" redirect="true"/>
+  <file name="televisyen-study.html" crc="4204035284" seo="true" mt="1492118043111" redirect="true"/>
+  <file name="3d-modelling.html" crc="4084351655" seo="true" mt="1492118075272" redirect="true"/>
+  <file name="ims.html" crc="3977679266" seo="true" mt="1492118104213" redirect="true"/>
+  <file name="interactive-media-2.html" crc="4049509950" seo="true" mt="1492118127336" redirect="true"/>
+  <file name="visual-effect.html" crc="423424891" seo="true" mt="1492118147736" redirect="true"/>
+</manifest>
